@@ -9,4 +9,5 @@ node_modules
 .vercel
 .output
 *.mp4
-cypress/videos/Stepper.cy.js.mp4
+cypress/videos/*
+*.mp4
